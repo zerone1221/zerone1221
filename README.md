@@ -71,9 +71,9 @@ Aku suka belajar teknologi dengan cara langsung praktik, mencoba, error, lalu me
 
 <div align="center">
 
-![Bima's GitHub Stats](https://github-readme-stats.vercel.app/api?username=straboy029&show_icons=true&theme=tokyonight&hide_border=true)
+![Bima's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zerone1221&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=straboy029&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zerone1221&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
@@ -83,7 +83,7 @@ Aku suka belajar teknologi dengan cara langsung praktik, mencoba, error, lalu me
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=straboy029&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=zerone1221&theme=tokyonight&hide_border=true)
 
 </div>
 
@@ -100,8 +100,8 @@ Aku suka belajar teknologi dengan cara langsung praktik, mencoba, error, lalu me
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-straboy029-222?style=for-the-badge&logo=github)](https://github.com/straboy029)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-222?style=for-the-badge&logo=gmail)](mailto:straboy029@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-zerone1221-222?style=for-the-badge&logo=github)](https://github.com/straboy029)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-222?style=for-the-badge&logo=gmail)](mailto:e43251524@student.polije.ac.id)
 
 </div>
 
